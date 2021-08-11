@@ -1,0 +1,7 @@
+D:\c#\IdentityStoreApp\IdentityStoreApp\bin\Debug\IdentityStoreApp.exe.config
+D:\c#\IdentityStoreApp\IdentityStoreApp\bin\Debug\IdentityStoreApp.exe
+D:\c#\IdentityStoreApp\IdentityStoreApp\bin\Debug\IdentityStoreApp.pdb
+D:\c#\IdentityStoreApp\IdentityStoreApp\obj\Debug\IdentityStoreApp.csproj.AssemblyReference.cache
+D:\c#\IdentityStoreApp\IdentityStoreApp\obj\Debug\IdentityStoreApp.csproj.CoreCompileInputs.cache
+D:\c#\IdentityStoreApp\IdentityStoreApp\obj\Debug\IdentityStoreApp.exe
+D:\c#\IdentityStoreApp\IdentityStoreApp\obj\Debug\IdentityStoreApp.pdb
